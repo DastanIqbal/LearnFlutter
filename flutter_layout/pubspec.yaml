@@ -1,0 +1,11 @@
+name: flutter_layout
+description: Flutter Layouts
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/lake.jpg
