@@ -1,13 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter_plugin/flutter_plugin.dart';
 import 'package:flutter_plugin_example/myapp.dart';
 
 void main() {
   debugPaintSizeEnabled = true;
   runApp(new MyApp());
 }
+
 /*class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => new _MyAppState();

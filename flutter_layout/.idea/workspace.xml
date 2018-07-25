@@ -24,10 +24,7 @@
         <entry file="file://$PROJECT_DIR$/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
-              <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="52" />
-              <folding>
-                <element signature="e#321#997#0" />
-              </folding>
+              <caret line="42" column="52" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -54,26 +51,24 @@
     <option name="height" value="641" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="flutter_layout" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_layout" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter_layout" type="58d84e3e:PackageViewProjectNode" />
+              <item name="flutter_layout" type="616d4139:PackageViewModuleNode" />
             </path>
             <path>
-              <item name="flutter_layout" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_layout" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="flutter_layout" type="58d84e3e:PackageViewProjectNode" />
+              <item name="flutter_layout_android" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
         </subPane>
-        <option name="show-excluded-files" value="false" />
       </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
@@ -86,21 +81,6 @@
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="flutter_layout" type="cbb8eebc:String" user="flutter_layout" />
               <item name="flutter_layout" type="cbb8eebc:String" user="flutter_layout" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="flutter_layout" type="58d84e3e:PackageViewProjectNode" />
-              <item name="flutter_layout" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="flutter_layout" type="58d84e3e:PackageViewProjectNode" />
-              <item name="flutter_layout_android" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -121,6 +101,23 @@
           </expand>
           <select />
         </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutter_layout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_layout" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_layout" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -209,7 +206,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="-3" width="1325" height="771" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -251,11 +247,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="e#321#997#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -263,9 +263,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1053">
           <caret line="113" column="14" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
-          <folding>
-            <element signature="e#321#997#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -280,9 +277,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1469">
           <caret line="113" column="14" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
-          <folding>
-            <element signature="e#321#997#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -297,9 +291,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1469">
           <caret line="113" column="14" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
-          <folding>
-            <element signature="e#321#997#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -314,9 +305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1469">
           <caret line="113" column="14" lean-forward="true" selection-start-line="113" selection-start-column="14" selection-end-line="113" selection-end-column="14" />
-          <folding>
-            <element signature="e#321#997#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -331,9 +319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
-          <folding>
-            <element signature="e#321#997#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -364,10 +349,7 @@
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="42" column="52" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="52" />
-          <folding>
-            <element signature="e#321#997#0" />
-          </folding>
+          <caret line="42" column="52" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="52" />
         </state>
       </provider>
     </entry>
